@@ -1,0 +1,805 @@
+KNÉGA
+PÒWTÓRZONÉGÒ
+PRAWA
+DEUTERONOMIUM
+
+KNÉGA
+PÒWTÓRZONÉGÒ
+PRAWA
+DEUTERONOMIUM
+z hebrajsczégò jãzëka na kaszëbsczi
+przełożił
+ò. Adóm Riszard Sykòra ÒFM
+
+Gduńsk 2019
+
+Imprimatur
+
+Ks. Arcybiskup Metropolita Poznański
+dr Stanisław Gądecki
+Nihil obstat
+
+ks. prof. dr hab. Jan Perszon
+Cenzor
+
+4
+
+Arcybiskup Metropolita
+Poznañski
+
+PRZEDMOWA
+Z radoci¹ i wewnêtrznym wzruszeniem przyj¹³em wiadomoæ
+o ukoñczeniu wiekopomnego dzie³a Ojca Profesora Adama Sikory
+OFM, jakim jest przet³umaczenie na jêzyk kaszubski ca³ego Piêcioksiêgu. Ten cenny projekt translatorski  zainaugurowany w roku
+2014 pracami nad Genesis  doczeka³ siê pomylnej finalizacji
+w obecnej chwili, w której Czytelnik mo¿e do rêki wzi¹æ ostatni¹
+czêæ kaszubskiej edycji Tory, czyli Ksiêgê Powtórzonego Prawa
+(Knéga Pòwtórzonégò Prawa).
+Publikacja niniejsza prezentuje wysok¹ wartoæ jêzykow¹.
+Spotykamy siê w niej bowiem z jêzykiem prawdziwie literackim,
+który potrafi jednoczenie ³¹czyæ w sobie wiernoæ hebrajskiemu
+orygina³owi z wykorzystaniem wyra¿eñ potocznie u¿ywanych pod
+kaszubskimi dachami. O jakoci pracy T³umacza wiadczy dobitnie fakt, ¿e wydane do tej pory pierwsze cztery Ksiêgi sta³y siê
+przedmiotem interesuj¹cych analiz jêzykoznawców nie tylko
+w Polsce, ale i poza jej granicami  badania prowadzone by³y
+na Uniwersytecie Jagielloñskim i Uniwersytecie Gdañskim oraz
+na Uniwersytecie Karola w Pradze i na Uniwersytecie w Barcelonie.
+
+5
+
+Godnym zauwa¿enia jest ponadto aspekt duszpasterski Biblii
+Kaszubskiej. Dwujêzyczne wprowadzenie teologiczno-historyczne,
+jak równie¿ syntetyczne komentarze umieszczone pod tekstem,
+odzwierciedlaj¹ aktualny stan wiedzy biblijnej, przekazuj¹ naukê
+Kocio³a, w którym wiêty tekst jest odczytywany i u³atwiaj¹ zrozumienie kontekstu, w którym Bóg przemówi³ do cz³owieka, objawiaj¹c mu siebie.
+Gratuluj¹c z ca³ego serca Ojcu Profesorowi podjêtych trudów,
+których zwieñczeniem jest Knéga Pòwtórzonégò Prawa, ¿yczê,
+by praca ta wyda³a obfite owoce w ¿yciu Czytelnika w doczesnoci i w wiecznoci.
+
++ Stanis³aw G¹decki
+Arcybiskup Metropolita Poznañski
+
+Poznañ, dnia 29 maja 2019 roku
+
+6
+
+Arcybiskùp Metropòlita
+Pòznañsczi
+
+PRZEDES£ÓW
+
+7
+
++ Stanis³ôw G¹decczi
+Arcybiskùp Metropòlita Pòznañsczi
+
+Pòznañ, dnia 29 maja 2019 rokù
+
+8
+
+S£OWO OD WYDAWCY
+
+Radoæ nasza jest dzi wielka, bo sta³o siê to, na co czekalimy
+od dawna. Do naszych r¹k trafia wydana w jêzyku kaszubskim
+Ksiêga Powtórzonego Prawa, pi¹ta i ostatnia ksiêga, domykaj¹ca
+Piêcioksi¹g Starego Testamentu.
+Jestemy ogromnie wdziêczni Ojcu, profesorowi Adamowi
+Ryszardowi Sikorze OFM, za tê i poprzednie ksiêgi przet³umaczone na jêzyk kaszubski bezporednio z jêzyka orygina³u, z jêzyka
+hebrajskiego. Piêcioksi¹g, na który sk³adaj¹ siê: Ksiêga Rodzaju
+(wydana w 2015 roku), Ksiêga Wyjcia (2016), Ksiêga Kap³añska
+(2017), Ksiêga Liczb (2018) oraz niniejsza Ksiêga Powtórzonego
+Prawa, stanowi dzie³o, które na trwa³e wpisuje siê do dorobku
+kultury kaszubskiej.
+Wyrazy wdziêcznoci kierujemy równie¿ do wszystkich osób,
+które sprzyja³y wydaniu i czuwa³y nad jakoci¹ ca³ego Piêcioksiêgu. Dziêkujemy wiêc ks. Abp. Stanis³awowi G¹deckiemu,
+ks. profesorowi Janowi Perszonowi, p. profesorowi Jerzemu Trederowi oraz mgr Danucie Pioch.
+Dziedzictwem Kaszubów jest nasza kultura, obyczaje, tradycje
+i postawy, a przede wszystkim wiara naszych ojców przekazywana
+z pokolenia na pokolenie. Wiara ta przekazywana jest w s³owie
+mówionym, ale najwa¿niejszy jest jej przekaz za pomoc¹ s³owa
+pisanego, które jest trwa³e, do którego mo¿na siêgaæ wielokrotnie
+i w ka¿dej chwili. Ksiêgi Pisma wiêtego przet³umaczone na jêzyk
+kaszubski, szczególnie te z jêzyka orygina³u, znacz¹co podnosz¹
+presti¿ kaszubszczyzny, bowiem stanowi¹ podstawê ujednolicenia s³ownictwa i pisowni. Tworz¹ one fundament i bazê przekazywania wiary.
+
+9
+
+Dla spo³ecznoci kaszubskiej wa¿ne jest, aby przekaz ten odbywa³ siê w naszej rodnej mowie. Ju¿ w XVI wieku pojawi³y siê
+pierwsze przek³ady fragmentów Biblii na jêzyk kaszubski. Potem,
+dopiero w latach osiemdziesi¹tych ubieg³ego wieku, ukaza³y siê
+pierwsze powa¿niejsze jej przek³ady na jêzyk kaszubski. Pierwsz¹
+mszê wiêt¹ z liturgi¹ s³owa w jêzyku kaszubskim dla zamkniêtej
+grupy osób poprowadzi³ ks. Franciszek Grucza 8 padziernika
+1983 roku we wsi Wygoda, za 5 listopada 1986 roku celebrowana by³a przez ks. Mariana Miotka msza wiêta po kaszubsku,
+pierwszy raz publicznie, dla wielkiej rzeszy wiernych, w kociele
+Najwiêtszej Marii Panny Wspomo¿enia Wiernych w Rumi.
+W ostatnich latach ukaza³o siê wiele przek³adów pimiennictwa religijnego na jêzyk kaszubski. Mamy ksiêgi zarówno Starego,
+jak i Nowego Testamentu, mamy Ewangelie, modlitwê Ojcze
+nasz, wiele kocielnych pieni w jêzyku kaszubskim, z przepiêkn¹
+i czêsto piewan¹ Kaszëbsk¹ Królew¹. W ten dorobek wpisuje
+siê dzi w sposób znakomity ca³y starotestamentowy Piêcioksi¹g.
+Wed³ug badañ prowadzonych przez ks. dr. Mariana Miotka,
+na przyk³adzie recepcji Biblii kaszubskiej, w pe³ni uzasadniona jest
+realizacja nauczania Kocio³a w kaszubskim krêgu kulturowym.
+Przepowiadanie s³owa Bo¿ego w jêzyku kaszubskim wpisuje siê
+w nauczanie papie¿a Benedykta XVI, który mówi, ¿e wykorzystywanie nowych metod w przekazywaniu orêdzia ewangelicznego
+wi¹¿e siê z ewangelizacyjn¹ pasj¹ wierz¹cych i nabiera nowego
+znaczenia, a S³owo Bo¿e w formie pisanej powinno rozbrzmiewaæ tak¿e poprzez inne formy przekazu i przenikaæ do ró¿nych
+sfer ¿ycia.
+Prof. Edmund Wittbrodt
+Prezes Zrzeszenia Kaszubsko-Pomorskiego
+
+10
+
+S£OWÒ ÒD WËDÔWCË
+
+11
+
+12
+
+S£OWO OJCA PROWINCJA£A
+
+Kaszubskie t³umaczenie starotestamentalnej Ksiêgi Powtórzonego Prawa wieñczy translatorskie prace Ojca Profesora Adama
+Ryszarda Sikory OFM nad Piêcioksiêgiem. Przyjmujemy tê ksiêgê
+z tym wiêksz¹ radoci¹ i satysfakcj¹.
+Prace nad t³umaczeniem Piêcioksiêgu z jêzyka hebrajskiego
+na kaszubski trwa³y piêæ lat (20142019), co uwiadamia nam,
+jak wielkie by³o to przedsiêwziêcie, jak wiele potrzeba by³o
+wytrwa³oci i wysi³ku. Powsta³o ostatecznie dzie³o pionierskie
+ze wzglêdu na fakt, ¿e wszystkie dotychczasowe t³umaczenia by³y
+jedynie fragmentaryczne (przet³umaczono w sumie ok. 5 % tekstu
+Piêcioksiêgu) i tworzone by³y w oparciu o teksty z jêzyków nieoryginalnych: z jêzyka niemieckiego lub polskiego.
+Powsta³o dzie³o pomnikowe, którego wartoæ wynika przede
+wszystkim z osobistej wra¿liwoci, teologicznego dowiadczenia oraz jêzykowego warsztatu jego Autora. Dodaæ przy tym nale¿y, ¿e wszystkie ksiêgi Piêcioksiêgu w t³umaczeniu Ojca Adama
+Sikory poddane zosta³y ocenie teologicznej ks. prof. dr. hab. Jana
+Perszona z Uniwersytetu Miko³aja Kopernika w Toruniu, otrzymywa³y nihil obstat aktualnych ministrów prowincjalnych oraz
+imprimatur Ks. Abpa Stanis³awa G¹deckiego Metropolity Poznañskiego. Korekt¹ jêzykow¹ Ksiêgi Rodzaju zaj¹³ siê nie¿yj¹cy ju¿
+p. prof. Jerzy Treder. Pozosta³e ksiêgi przejrza³a mgr Danuta Pioch.
+Niniejszy przek³ad powsta³ jako owoc projektu naukowego
+w ramach Wydzia³u Teologicznego Uniwersytetu Adama Mickiewicza w Poznaniu. Wydawc¹ poszczególnych ksi¹g by³ Zarz¹d
+
+13
+
+G³ówny Zrzeszenia Kaszubsko-Pomorskiego. Po ich wydaniu
+odbywa³a siê ich promocja w Gdañsku, Wejherowie i Chojnicach.
+Wydania poszczególnych ksi¹g spotyka³y siê zawsze z bardzo
+pozytywnym odbiorem i st¹d by³y równie¿ nagradzane na dorocznych targach ksi¹¿ki kaszubskiej pierwszym i drugim miejscem.
+Oddaj¹c do r¹k Czytelników niniejszy tom kaszubskiego t³umaczenia Ksiêgi Powtórzonego Prawa wyra¿am wielkie uznanie
+i wdziêcznoæ wobec jego Autora za niebagatelny wk³ad w kulturê
+Regionu oraz za pos³ugê duszpastersk¹, jak¹ spe³nia poprzez osobiste zg³êbianie i przybli¿anie ludziom Prawdy.
+O. dr Bernard J. Marciniak OFM
+Prowincja³
+Poznañ, 3.04.2019 r.
+
+14
+
+S£OWÒ ÒJCA PROWINCJA£A
+
+15
+
+16
+
+17
+
+18
+
+KSIÊGA POWTÓRZONEGO PRAWA
+DEUTERONOMIUM
+WPROWADZENIE
+Ksiêga Powtórzonego Prawa jest pi¹t¹ ksiêg¹ Biblii i ostatni¹
+ksiêg¹ starotestamentowego zbioru ksi¹g, który po hebrajsku
+nazywany jest Tor¹, a w kanonie chrzecijañskim zazwyczaj Piêcioksiêgiem. W tradycji ¿ydowskiej nazwa tej Ksiêgi  I oto s³owa,
+pochodzi od pierwszych jej s³ów w jêzyku hebrajskim (w ee-lleh
+d eba-rîm). T³umacze Septuaginty nadali jej tytu³ Deuteronomios 
+Ksiêga Drugiego Prawa, który z kolei przejê³y t³umaczenia ³aciñskie, najpierw jako Deuteronomius (domylnie Liber), póniej
+Deuteronomium. Taka nazwa przyjê³a siê równie¿ w jêzykach
+europejskich. Nie jest to jednak w³aciwe okrelenie, gdy¿ nie
+ma tu mowy o drugim Prawie, innym od synajskiego  zapisanego
+we wczeniejszych ksiêgach Tory. Raczej chodzi o odpis Prawa,
+o jego kopiê. St¹d, wspó³czenie w jêzyku polskim przyj¹³ siê
+trafniejszy tytu³ ksiêgi: Ksiêga Powtórzonego Prawa, choæ i on
+nie jest w pe³ni adekwatny. Wprawdzie bowiem ksiêga zawiera
+wiele praw, o których mówi³y wczeniejsze ksiêgi Piêcioksiêgu,
+to nie mamy tu ich dos³ownego powtórzenia. W Ksiêdze Powtórzonego Prawa bowiem Prawo podano ju¿ w innej formie, dostosowanej do nowych okolicznoci. W niniejszym t³umaczeniu,
+za nazw¹ tej Ksiêgi w jêzyku polskim, przyjmujemy tak¿e nazwê
+tej Ksiêgi w jêzyku kaszubskim: Knéga Pòwtórzonégò Prawa.
+Tradycja ¿ydowska i chrzecijañska przypisywa³a autorstwo
+ksiêgi Moj¿eszowi. Nie mo¿na wykluczyæ, ¿e wiele zawartych
+w niej pouczeñ siêga czasów samego Moj¿esza. Badania literackie
+
+19
+
+wykaza³y jednak, ¿e ksiêga zawiera materia³ pochodz¹cy z ró¿nych okresów i czyni aluzje do ró¿nych warunków topograficznych. Wzmianki o wi¹tyni i czystoci kultycznej wskazuj¹ na
+czas powstania ksiêgi. Widoczne jest, ¿e Izrael osiad³ ju¿ na swej
+ziemi, posiada administracjê pañstwow¹ i mo¿liwoæ sprawowania kultu. Mocno zaakcentowana idea centralizacji kultu wskazuje na czasy reformy Jozjasza (lata od 641/40 do 609 przed Chr.).
+Wieloæ wstêpów, zakoñczeñ, przerw, wstawek, powtórzeñ w tekcie, ró¿ny styl poszczególnych fragmentów, przepisy prawne
+zak³adaj¹ce odmienne warunki geograficzno-socjalne (S. Wypych)
+ wszystko to wskazuje na bogat¹ prehistoriê i skomplikowany
+proces redakcyjny ksiêgi. Nie wystêpuj¹ w niej niemal wcale teksty pochodz¹ce ze róde³ J E i P, charakterystyczne dla pozosta³ych
+ksi¹g Tory. Biblici podkrelaj¹ istnienie w ksiêdze innej, niespotykanej dot¹d tradycji zwanej deuteronomistyczn¹ (D), reprezentuj¹cej specyficzny nurt teologiczny w religii Izraela. Charakteryzuje go monoteizm, jednoæ i centralizacja kultu oraz jednoæ
+ludu. Jego pocz¹tków niektórzy dopatruj¹ siê w Królestwie Pó³nocnym  jednej z dwóch czêci Izraela po jego rozpadzie w ok.
+929 r. przed Chr. W nurcie tej tradycji zasadniczy, najstarszy zr¹b
+Ksiêgi (Pwt 12-25) zosta³ uzupe³niony najpierw w czasach Jozjasza o rozdz. 5-11 i 27, a ostatecznie o Pwt 1-4; 29nn.
+Jêzyk i styl ksiêgi nale¿¹ do najciekawszych w Biblii. Autor nie
+ogranicza siê do podania poszczególnych przepisów prawnych,
+ale wystêpuje jako katecheta lub kaznodzieja bezporednio zwracaj¹cy siê do s³uchacza. Nie tylko wymienia przepisy, ale czêstokroæ podaje ich motywacjê etyczn¹, teologiczn¹ czy historyczn¹.
+Uczeni nie s¹ zgodni co do struktury ksiêgi. Najczêciej widz¹
+w niej trzy czêci, ale zakres ka¿dej z nich budzi ju¿ dyskusje.
+Niektórzy dziel¹ ksiêgê w taki sposób, ¿e pierwsz¹ czêæ tworzy
+pierwsze jedenacie rozdzia³ów ksiêgi. Rozdzia³y 12-26 stanowi¹ jej czêæ g³ówn¹, a rozdz. 31-34 stanowi¹ epilog zawieraj¹cy
+formu³y zawarcia przymierza, kantyk Moj¿esza (32) i jego b³ogos³awieñstwa zawarte w Pwt 33,6-25. Inni egzegeci dziel¹ ksiêgê na
+trzy czêci, maj¹c na uwadze wielkie mowy Moj¿esza: 1. Pierwsza
+
+20
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Mowa (1,6-4,10); 2. Druga Mowa (4,44-26,15); 3. Mowa trzecia
+(27,1-30,20) oraz epilog.
+Teologia ksiêgi jest bardzo bogata i jest poniek¹d wielkim
+streszczeniem wszystkich najwa¿niejszych tradycji biblijnych
+Starego Przymierza. Pojawiaj¹ siê w niej wiêc tematy takie jak:
+przymierze, wybranie ludu Bo¿ego, kult, ziemia obiecana, mi³oæ
+i mi³osierdzie Boga. Najwa¿niejsze przes³anie skupia siê na przypomnieniu prawdy, ¿e Izraelici s¹ narodem wybranym (Pwt 7,6;
+14,2; 26,18), a tym samym zobowi¹zanym do czci tylko jedynego
+Boga, którego maj¹ kochaæ ca³ym sercem. Pomylnoæ narodu,
+w tym tak¿e posiadanie Ziemi Kanaan, któr¹ Bóg im da³, bêdzie
+zale¿eæ od ich wiernoci woli Bo¿ej, wyra¿onej w nakazach Prawa
+(Tory). Podobnie jak u proroków, w centrum nauczania tej ksiêgi
+znajduje siê wezwanie do mi³oci, sprawiedliwoci, wiernoci,
+a tak¿e troski o ubogich. W historii zbawienia Ksiêga Powtórzonego Prawa zajmuje wyj¹tkowe miejsce, gdy¿ ca³ociowo przedstawia obowi¹zki wobec Boga i bliniego. Nakaz mi³owania Boga
+ponad wszystko (6,5.13-15) przeszed³ do Nowego Testamentu,
+gdzie sta³ siê kamieniem wêgielnym ca³ej moralnoci.
+Nowy Testament cytuje Ksiêgê Powtórzonego Prawa ok. 80
+razy. Odbijaj¹ siê w nim wyranym echem niektóre sformu³owania i prawa zawarte w Ksiêdze Powtórzonego Prawa. Przykazanie mi³oci (Pwt 6,5) pojawia siê w mowach polemicznych
+(Mt 22,37; Mk 12,29n; £k 10,27). S³owa Bo¿e z Pwt 8,3; 6,16
+zachodz¹ w dialogu kuszenia (Mt 4,4.7; £k 4,4.12), a inne prawa
+w Mt 5,31; 18,16. Na tekst o proroku (Pwt 18,15.19) powo³a siê
+kerygmat apostolski w Dz 3,22; 7,37. w. Pawe³ przytacza poszczególne przepisy w 2 Kor 13,1; Ga 3,13. Tak¿e Hbr 12,21.29
+nawi¹zuje do opowiadania zdarzeñ pod Synajem. W Ksiêdze Powtórzonego Prawa (18,15nn) widzi siê te¿ zapowied pojawienia
+siê nowego proroka, którym dla chrzecijan jest Jezus Chrystus.
+Ksiêga Powtórzonego Prawa nie by³a dot¹d przet³umaczona
+na jêzyk kaszubski w ca³oci. Kilka wersetów z jêzyka niemieckiego
+przet³umaczy³ w XVII w. pastor smo³dziñski Micha³ Pontanus
+(Pwt 6,6-7; 10,18), a przek³adów krótkich perykop (4,1-2.6KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+21
+
+8.32-34.39-40; 5,12-15; 6,2-6; 7,6-11; 8,2-3.14b-16a; 11,8.26-28;
+18,15-20; 26,4-10; 30,10-14) z jêzyka polskiego dokona³ Eugeniusz Go³¹bek w ramach lekcjonarza To je S³owo Bo¿é (2009).
+Niniejszy przek³ad na jêzyk kaszubski zosta³ dokonany z jêzyka hebrajskiego na podstawie najlepszych krytycznych wydañ
+Biblii Hebrajskiej. Przek³ad ma charakter filologiczny, przyjmuj¹cy ustalone normy jêzykowe i wykorzystuj¹cy w³aciwoci kaszubszczyzny domowej. Zosta³ on dokonany we wspó³czesnym
+jêzyku literackim.
+Pragnê w tym miejscu podziêkowaæ ks. Arcybiskupowi Stanis³awowi G¹deckiemu, metropolicie poznañskiemu, za udzielenie
+imprimatur niniejszemu wydaniu Ksiêgi Powtórzonego Prawa,
+o. Prowincja³owi dr. Bernardowi J. Marciniakowi OFM za pozwolenie na druk (nihil obstat) oraz ks. prof. dr. hab. Janowi Perszonowi za ocenê teologiczn¹ przek³adu.
+Pragnê tak¿e wyraziæ w tym miejscu moj¹ szczególn¹ wdziêcznoæ pani mgr Danucie Pioch, która podjê³a siê ¿mudnej korekty
+jêzykowej przek³adu i s³u¿y³a fachow¹ pomoc¹ filologiczn¹ w konsultacjach dotycz¹cych szczegó³owych rozstrzygniêæ.
+Noty wyjaniaj¹ce trudniejsze miejsca w tekcie przygotowa³a pani dr Jadwiga Gociañska, której za tê pracê, jak równie¿ za
+troskê o integralnoæ tekstu, serdecznie dziêkujê.
+Zarz¹dowi G³ównemu Zrzeszenia Kaszubsko-Pomorskiego,
+inicjatorowi wydania drukiem Ksiêgi Powtórzonego Prawa w jêzyku kaszubskim, pragnê w imieniu swoim i w imieniu czytelników
+tych wiêtych s³ów z³o¿yæ szczere wyrazy uznania i wdziêcznoci.
+o. Adam R. Sikora OFM
+
+22
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONEGÒ PRAWA
+DEUTERONOMIUM
+WPROWADZENIÉ
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+23
+
+24
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+25
+
+26
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+1
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+27
+
+28
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Przed wińdzenim z Hòrebù do Zemi Òbiécóny
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+31
+
+32
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Wzãlë w rãce përznã brzadu ti zemi, przënioslë nama
+i tak przedstawilë sprawã: „Dobrô je zemia, jaką nama
+daje PÓN, nasz Bóg” (Pwt 1,25)
+
+2
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+35
+
+36
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+W Elat
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+39
+
+3
+
+40
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+4
+
+42
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+43
+
+44
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+45
+
+46
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+5
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+47
+
+48
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Mòjżesz z Tôflama Przëmierzô
+
+6
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+51
+
+52
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Naùczanié Bòżégò Prawa (Pwt 6,7)
+
+7
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+55
+
+56
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+57
+
+8
+
+58
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Pamiãtôj, co ùczënił PÓN, twój Bóg, faraónowi
+i wszëtczim Egipcjónóm (Pwt 7,18)
+
+9
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+61
+
+62
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Kùlt òdléwkù złotégò celca (Pwt 9,12)
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+65
+
+10
+
+66
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+67
+
+11
+
+68
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+69
+
+70
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+12
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+71
+
+72
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+73
+
+13
+
+74
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+75
+
+14
+
+76
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Gazela
+
+Kòzoróżc
+
+78
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Żirafa
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+81
+
+15
+
+82
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+83
+
+16
+
+84
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+85
+
+17
+
+86
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+87
+
+18
+
+88
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Kapłani-lewicë wëdają òbsąd (Pwt 17,9)
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+91
+
+19
+
+92
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+93
+
+20
+
+94
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+21
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+95
+
+96
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+97
+
+22
+
+98
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Ògrodzëna na dakù chëczë (Pwt 22,8)
+
+100
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Nie bãdzesz òrôł razã we wòła i òsła, jak to czënilë Egipcjónie
+(Pwt 22,10)
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+103
+
+23
+
+104
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+105
+
+24
+
+106
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+107
+
+25
+
+108
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+26
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+109
+
+110
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+27
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+111
+
+112
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Górë Ebal i Garizim (Pwt 27,12-13)
+
+28
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+115
+
+116
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+117
+
+118
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+119
+
+29
+
+120
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+121
+
+122
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Nosëcel wòdë (Pwt 29,10)
+
+30
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+125
+
+126
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+31
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+127
+
+128
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+129
+
+32
+
+130
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Przëbòrë do pisaniô (Pwt 31,24)
+
+132
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Piesń Mòjżesza (Pwt 32,1)
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+135
+
+136
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Òrzeł nad pizglątkama (Pwt 32,11)
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+139
+
+140
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+33
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+141
+
+142
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+143
+
+144
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+34
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+145
+
+146
+
+KNÉGA PÒWTÓRZONÉGÒ PRAWA
+
+Smierc Mòjżesza
+
+© o. Adam Ryszard Sikora OFM
+© Zrzeszenie Kaszubsko-Pomorskie Zarząd Główny, 2019
+Opinia teologiczna
+
+Ks. prof. dr hab. Jan Perszon UMK
+Ilustracje
+
+The Holy Bible, vol. I, London 1836
+Julius Schnorr von Carolsfeld, Die Bibel in Bildern, 1860 (s. 27, 147)
+Pomysł okładki
+
+Dr Jadwiga Gościańska
+Przekład wstępu i not wyjaśniających
+
+Mgr Danuta Pioch
+Korekta językowa
+
+Mgr Danuta Pioch
+Projekt graficzny, łamanie i redakcja techniczna
+
+Anna Maciejewska i Maciej Ostoja-Lniski
+Koordynator wydania Pięcioksięgu w tłumaczeniu na język kaszubski
+
+Anna Dunst
+Publikacja wydana pod patronatem Wydziału Teologicznego
+Uniwersytetu im. Adama Mickiewicza w Poznaniu.
+
+Zrealizowano dzięki dotacji Ministra Spraw Wewnętrznych
+i Administracji
+Wydawca
+
+Zrzeszenie Kaszubsko-Pomorskie Zarząd Główny
+80-837 Gdańsk, ul. Straganiarska 20-23
+ISBN 978-83-62137-23-7
+
+
