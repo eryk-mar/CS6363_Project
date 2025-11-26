@@ -1,0 +1,90 @@
+store(&VERSION) '10.0'
+store(&NAME) 'Kashubian Programmer'
+store(&COPYRIGHT) 'Public Domain'
+store(&KEYBOARDVERSION) '1.1.0'
+store(&TARGETS) 'any'
+store(&BITMAP) 'kashubian_programmer.ico'
+store(&LAYOUTFILE) 'kashubian_programmer.keyman-touch-layout'
+store(&VISUALKEYBOARD) 'kashubian_programmer.kvks'
+store(&KMW_RTL) '0'
+
+begin Unicode > use(main)
+
+group(main) using keys
+
+c Polish (ALt gr - standard)
++ [RALT NCAPS K_A] > U+0105      c ą
++ [RALT SHIFT NCAPS K_A] > U+0104
++ [RALT CAPS K_A] > U+0104
++ [RALT CAPS SHIFT K_A] > U+0105
++ [RALT NCAPS K_C] > U+0107      c ć
++ [RALT SHIFT NCAPS K_C] > U+0106
++ [RALT CAPS K_C] > U+0106
++ [RALT CAPS SHIFT K_C] > U+0107
++ [RALT NCAPS K_E] > U+0119      c ę
++ [RALT SHIFT NCAPS K_E] > U+0118
++ [RALT CAPS K_E] > U+0118
++ [RALT CAPS SHIFT K_E] > U+0119
++ [RALT NCAPS K_L] > U+0142      c ł
++ [RALT SHIFT NCAPS K_L] > U+0141
++ [RALT CAPS K_L] > U+0141
++ [RALT CAPS SHIFT K_L] > U+0142
++ [RALT NCAPS K_N] > U+0144      c ń
++ [RALT SHIFT NCAPS K_N] > U+0143
++ [RALT CAPS K_N] > U+0143
++ [RALT CAPS SHIFT K_N] > U+0144
++ [RALT NCAPS K_O] > U+00F3      c ó
++ [RALT SHIFT NCAPS K_O] > U+00D3
++ [RALT CAPS K_O] > U+00D3
++ [RALT CAPS SHIFT K_O] > U+00F3
++ [RALT NCAPS K_S] > U+015B      c ś
++ [RALT SHIFT NCAPS K_S] > U+015A
++ [RALT CAPS K_S] > U+015A
++ [RALT CAPS SHIFT K_S] > U+015B
++ [RALT NCAPS K_X] > U+017A      c ź
++ [RALT NCAPS K_Z] > U+017C      c ż
+
++ [RALT SHIFT NCAPS K_X] > U+0179 c Ź
++ [RALT SHIFT NCAPS K_Z] > U+017B c Ż
++ [RALT CAPS K_X] > U+0179
++ [RALT CAPS SHIFT K_X] > U+017A
++ [RALT CAPS K_Z] > U+017B
++ [RALT CAPS SHIFT K_Z] > U+017C
+
+c Kashubian letters (RCNTRL)
+
+c ã / Ã  (RCTRL+A)
++ [RCTRL NCAPS K_A]       > U+00E3
++ [RCTRL SHIFT NCAPS K_A] > U+00C3
++ [RCTRL CAPS K_A] > U+00C3
++ [RCTRL CAPS SHIFT K_A] > U+00E3
+
+c ë / Ë  (RCTRL+E)
++ [RCTRL NCAPS K_E]       > U+00EB
++ [RCTRL SHIFT NCAPS K_E] > U+00CB
++ [RCTRL CAPS K_E] > U+00CB
++ [RCTRL CAPS SHIFT K_E] > U+00EB
+
+c é / É (RCTRL+W)
++ [RCTRL NCAPS K_W]       > U+00E9
++ [RCTRL SHIFT NCAPS K_W] > U+00C9
++ [RCTRL CAPS K_W] > U+00C9
++ [RCTRL CAPS SHIFT K_W] > U+00E9
+
+c ò / Ò  (RCTRL+0)
++ [RCTRL NCAPS K_O]       > U+00F2
++ [RCTRL SHIFT NCAPS K_O] > U+00D2
++ [RCTRL CAPS K_O] > U+00D2
++ [RCTRL CAPS SHIFT K_O] > U+00F2
+
+c ô / Ô  (RCTRL + P)
++ [RCTRL NCAPS K_P]       > U+00F4
++ [RCTRL SHIFT NCAPS K_P] > U+00D4
++ [RCTRL CAPS K_P] > U+00D4
++ [RCTRL CAPS SHIFT K_P] > U+00F4
+
+c ù / Ù  (RCTRL+U)
++ [RCTRL NCAPS K_U]       > U+00F9
++ [RCTRL SHIFT NCAPS K_U] > U+00D9
++ [RCTRL CAPS K_U] > U+00D9
++ [RCTRL CAPS SHIFT K_U] > U+00F9

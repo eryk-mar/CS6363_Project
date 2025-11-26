@@ -1,0 +1,39 @@
+{
+  "id": "kashubian_programmer",
+  "name": "Kashubian Programmer",
+  "license": "mit",
+  "description": "<p>Kashubian Programmer layout. AltGr outputs Kashubian letters (ã, é, ë, ô, ò, ù) and Polish letters (ą, ć, ę, ł, ń, ó, ś, ź, ż).</p>",
+  "languages": {
+    "csb": {
+      "examples": [],
+      "languageName": "Kashubian",
+      "displayName": "Kashubian"
+    }
+  },
+  "lastModifiedDate": "2025-07-07T17:08:05.000Z",
+  "packageFilename": "kashubian_programmer.kmp",
+  "packageFileSize": 15287,
+  "jsFilename": "kashubian_programmer.js",
+  "jsFileSize": 14049,
+  "packageIncludes": [
+    "welcome",
+    "visualKeyboard",
+    "documentation"
+  ],
+  "version": "1.1.0",
+  "encodings": [
+    "unicode"
+  ],
+  "platformSupport": {
+    "windows": "full",
+    "macos": "full",
+    "linux": "full",
+    "desktopWeb": "full",
+    "ios": "full",
+    "android": "full",
+    "mobileWeb": "full"
+  },
+  "minKeymanVersion": "10.0",
+  "sourcePath": "release/f/fulfulde_ajami_qwerty",
+  "helpLink": "https://help.keyman.com/keyboard/kashubian_programmer"
+}
