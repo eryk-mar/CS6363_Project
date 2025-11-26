@@ -21,7 +21,7 @@
     <Version URL="">1.1.0</Version>
     <Name URL="">Kashubian Programmer</Name>
     <Copyright URL="">Public Domain</Copyright>
-    <Description URL="">Kashubian Programmer layout. AltGr outputs Kashubian letters (ã, é, ë, ô, ò, ù) and Polish letters (ą, ć, ę, ł, ń, ó, ś, ź, ż).</Description>
+    <Description URL="">Kashubian Programmer layout. Desktop: AltGr gives Polish letters (ą, ć, ę, ł, ń, ó, ś, ź, ż); Right Ctrl gives Kashubian letters (ã, é, ë, ò, ô, ù). Touch: long-press base keys for the same letters (including 0 for ò/Ò).</Description>
   </Info>
   <Files>
     <File>
