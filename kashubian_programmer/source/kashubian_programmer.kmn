@@ -7,10 +7,15 @@ store(&BITMAP) 'kashubian_programmer.ico'
 store(&LAYOUTFILE) 'kashubian_programmer.keyman-touch-layout'
 store(&VISUALKEYBOARD) 'kashubian_programmer.kvks'
 store(&KMW_RTL) '0'
+store(letters) "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+store(DK_KASH) deadkey(KASH)
 
 begin Unicode > use(main)
 
 group(main) using keys
+
+
++ "`" > deadkey(KASH)
 
 c Polish (ALt gr - standard)
 + [RALT NCAPS K_A] > U+0105      c ą
@@ -51,40 +56,34 @@ c Polish (ALt gr - standard)
 + [RALT CAPS K_Z] > U+017B
 + [RALT CAPS SHIFT K_Z] > U+017C
 
-c Kashubian letters (RCNTRL)
+c Kashubian letters (deadkey)
 
-c ã / Ã  (RCTRL+A)
-+ [RCTRL NCAPS K_A]       > U+00E3
-+ [RCTRL SHIFT NCAPS K_A] > U+00C3
-+ [RCTRL CAPS K_A] > U+00C3
-+ [RCTRL CAPS SHIFT K_A] > U+00E3
+deadkey(KASH) + [NCAPS K_A] > U+00E3
+deadkey(KASH) + [SHIFT NCAPS K_A] > U+00C3
+deadkey(KASH) + [CAPS K_A] > U+00C3
+deadkey(KASH) + [SHIFT CAPS K_A] > U+00E3
 
-c ë / Ë  (RCTRL+E)
-+ [RCTRL NCAPS K_E]       > U+00EB
-+ [RCTRL SHIFT NCAPS K_E] > U+00CB
-+ [RCTRL CAPS K_E] > U+00CB
-+ [RCTRL CAPS SHIFT K_E] > U+00EB
+deadkey(KASH) + [NCAPS K_E] > U+00EB
+deadkey(KASH) + [SHIFT NCAPS K_E] > U+00CB
+deadkey(KASH) + [CAPS K_E] > U+00CB
+deadkey(KASH) + [SHIFT CAPS K_E] > U+00EB
 
-c é / É (RCTRL+W)
-+ [RCTRL NCAPS K_W]       > U+00E9
-+ [RCTRL SHIFT NCAPS K_W] > U+00C9
-+ [RCTRL CAPS K_W] > U+00C9
-+ [RCTRL CAPS SHIFT K_W] > U+00E9
+deadkey(KASH) + [NCAPS K_W] > U+00E9
+deadkey(KASH) + [SHIFT NCAPS K_W] > U+00C9
+deadkey(KASH) + [CAPS K_W] > U+00C9
+deadkey(KASH) + [SHIFT CAPS K_W] > U+00E9
 
-c ò / Ò  (RCTRL+0)
-+ [RCTRL NCAPS K_O]       > U+00F2
-+ [RCTRL SHIFT NCAPS K_O] > U+00D2
-+ [RCTRL CAPS K_O] > U+00D2
-+ [RCTRL CAPS SHIFT K_O] > U+00F2
+deadkey(KASH) + [NCAPS K_O] > U+00F2
+deadkey(KASH) + [SHIFT NCAPS K_O] > U+00D2
+deadkey(KASH) + [CAPS K_O] > U+00D2
+deadkey(KASH) + [SHIFT CAPS K_O] > U+00F2
 
-c ô / Ô  (RCTRL + P)
-+ [RCTRL NCAPS K_P]       > U+00F4
-+ [RCTRL SHIFT NCAPS K_P] > U+00D4
-+ [RCTRL CAPS K_P] > U+00D4
-+ [RCTRL CAPS SHIFT K_P] > U+00F4
+deadkey(KASH) + [NCAPS K_P] > U+00F4
+deadkey(KASH) + [SHIFT NCAPS K_P] > U+00D4
+deadkey(KASH) + [CAPS K_P] > U+00D4
+deadkey(KASH) + [SHIFT CAPS K_P] > U+00F4
 
-c ù / Ù  (RCTRL+U)
-+ [RCTRL NCAPS K_U]       > U+00F9
-+ [RCTRL SHIFT NCAPS K_U] > U+00D9
-+ [RCTRL CAPS K_U] > U+00D9
-+ [RCTRL CAPS SHIFT K_U] > U+00F9
+deadkey(KASH) + [NCAPS K_U] > U+00F9
+deadkey(KASH) + [SHIFT NCAPS K_U] > U+00D9
+deadkey(KASH) + [CAPS K_U] > U+00D9
+deadkey(KASH) + [SHIFT CAPS K_U] > U+00F9
