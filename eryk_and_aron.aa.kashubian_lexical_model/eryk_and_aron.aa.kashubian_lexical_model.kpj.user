@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>2</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\eryk_and_aron.aa.kashubian_lexical_model.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_2ec554576fd842953d0ba4d22e33dcd6</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\eryk_and_aron.aa.kashubian_lexical_model.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b865e570e1eea55e307cc5c0d7677586</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\eryk_and_aron.aa.kashubian_lexical_model.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1c83898fd6ab07cf7df41564769fee58</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\eryk_and_aron.aa.kashubian_lexical_model.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_a20b469f9276fd2e205fbe549fc7b01e</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\eryk_and_aron.aa.kashubian_lexical_model.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>emil</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_89f63b613fd4156e39e15a1786b03708</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\wordlist.tsv</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_7ede36c72cf11efa1898c693a28a09dd</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\..\build\eryk_and_aron.aa.kashubian_lexical_model.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>eryk_and_aron.aa.kashubian_lexical_model.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\eryk_and_aron.aa.kashubian_lexical_model.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>eryk_and_aron.aa.kashubian_lexical_model.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\eryk_and_aron.aa.kashubian_lexical_model.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>wordlist.tsv</Filename>
+      <FileType>.tsv</FileType>
+      <FullPath>C:\Users\erykd\Documents\Keyman Developer\Projects\eryk_and_aron.aa.kashubian_lexical_model\source\wordlist.tsv</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
